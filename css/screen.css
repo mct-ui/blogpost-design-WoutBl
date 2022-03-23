@@ -303,7 +303,7 @@ a:focus {
 }
 @media (min-width: 768px) {
     .c-article__header {
-        padding: 48px 48px 24px;
+        padding: 0px 0px 0px;
     }
     .c-article__author {
         padding-bottom: 24px;
